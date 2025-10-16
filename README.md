@@ -6,4 +6,4 @@
 
 **Project Description:** Deploying a custom webpage using NGINX on a cloud server for the HNG Stage 0 DevOps challenge.
 
-**Server IP/Domain:** [Will update after deployment]
+**Server IP/Domain:** http://13.60.211.29
